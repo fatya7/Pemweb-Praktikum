@@ -1,0 +1,56 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    border: none;
+    background-color: rgb(3, 60, 65);
+    color: black;
+    border-radius: 10px;
+}
+
+nav {
+    border: none;
+    background-color: rgb(17, 146, 155);
+    color: black;
+    border-radius: 10px;
+}
+
+form {
+    align-content: center;
+    width: 300px;
+    background-color: rgb(17, 146, 155);
+    border-radius: 20px;
+    color: black;
+}
+
+img {
+    background-color: rgb(17, 146, 155);
+    border-radius: 50%;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+input {
+    border-radius: 10px;
+}
+
+iframe {
+    background-color: rgb(17, 146, 155);
+    border-radius: 10px;
+    color: black;
+}
+
+button {
+    border: none;
+    background-color: rgb(17, 146, 155);
+    color: black;
+    border-radius: 10px;
+}
